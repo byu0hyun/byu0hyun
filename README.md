@@ -1,7 +1,7 @@
 ### 👋 
 Data Analysis / Machine Learning / Data Science
 
-- 2020/09/01 ~ 2021/02/28 : 차세대융합기술연구원 DS LAB
+- 2020/09/01 ~ 2021/02/28 : 차세대융합기술연구원 DS LAB 인턴연구원
 - 2021/04/26 ~ : 퍼블릭에이아이(PAI) AI 엔지니어
 
 ![python](https://img.shields.io/badge/Python-blue?style={style}&logo=Python&logoColor=white) ![TF](https://img.shields.io/badge/tensorFlow2-blue?style={style}&logo=tensorflow&logoColor=default) ![MySQL](https://img.shields.io/badge/MySQL-blue?style={style}&logo=mysql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-blue?style={style}&logo=tableau&logoColor=default)  ![R](https://img.shields.io/badge/R-blue?style={style}&logo=R&logoColor=white) ![QGIS](https://img.shields.io/badge/QGis-blue?style={style}&logo=Qgis&logoColor=default) ![QGIS](https://img.shields.io/badge/C++-blue?style={style}&logo=C++&logoColor=default)
