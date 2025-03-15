@@ -1,25 +1,8 @@
 ### 👋 
-Data Analysis / Machine Learning / Data Science
+Data Analysis / Machine Learning / AI Engineer
 
 - 2020/09/01 ~ 2021/02/28 : 차세대융합기술연구원 DS LAB 인턴연구원
 - 2021/04/26 ~ : 퍼블릭에이아이(PAI) AI 엔지니어
 
-![python](https://img.shields.io/badge/Python-blue?style={style}&logo=Python&logoColor=white) ![TF](https://img.shields.io/badge/tensorFlow2-blue?style={style}&logo=tensorflow&logoColor=default) ![MySQL](https://img.shields.io/badge/MySQL-blue?style={style}&logo=mysql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-blue?style={style}&logo=tableau&logoColor=default)  ![R](https://img.shields.io/badge/R-blue?style={style}&logo=R&logoColor=white) ![QGIS](https://img.shields.io/badge/QGis-blue?style={style}&logo=Qgis&logoColor=default) ![QGIS](https://img.shields.io/badge/C++-blue?style={style}&logo=C++&logoColor=default)
-![QGIS](https://img.shields.io/badge/NLP-blue?style={style}&logo=NLP&logoColor=default)<br>
-![ubuntu](https://img.shields.io/badge/ubuntu18.04-blue?style={style}&logo=ubuntu&logoColor=default) ![](https://img.shields.io/badge/VSCode-blue?style={style}&logo=visual-studio-code&logoColor=default) ![](https://img.shields.io/badge/jupyter&nbsp;notebook-blue?style={style}&logo=jupyter&logoColor=default)
 
-
-<!--
-**ByuungHyunPark/ByuungHyunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+관심분야: CleanCode, Layered Architecture, DDD, LangChain, LangGraph, RAG 등등등등
